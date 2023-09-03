@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/australia"
+            android:title="Australia"
+            android:icon="@drawable/flag"/>
+        <item
+            android:id="@+id/brazil"
+            android:title="Brazil"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/canada"
+            android:title="Canada"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/china"
+            android:title="China"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/france"
+            android:title="France"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/germany"
+            android:title="Germany"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/hong_kong"
+            android:title="Hong Kong"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/italy"
+            android:title="Italy"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/japan"
+            android:title="Japan"
+            android:icon="@drawable/flag"/>
+        <item
+            android:id="@+id/philippines"
+            android:title="Philippines"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/portugal"
+            android:title="Portugal"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/romania"
+            android:title="Romania"
+            android:icon="@drawable/flag"/>
+        <item
+            android:id="@+id/singapore"
+            android:title="Singapore"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/spain"
+            android:title="Spain"
+            android:icon="@drawable/flag"/>
+        <item
+            android:id="@+id/switzerland"
+            android:title="Switzerland"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/taiwan"
+            android:title="Taiwan"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/ukraine"
+            android:title="Ukraine"
+            android:icon="@drawable/flag"/>
+
+        <item
+            android:id="@+id/united_kingdom"
+            android:title="United Kingdom"
+            android:icon="@drawable/flag"/>
+        <item
+            android:id="@+id/united_states"
+            android:title="United States"
+            android:icon="@drawable/flag"/>
+
+</menu>

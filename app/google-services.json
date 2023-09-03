@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148971313093",
+    "project_id": "taazakhabar-1c097",
+    "storage_bucket": "taazakhabar-1c097.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148971313093:android:5cf367217a8c2a25829dac",
+        "android_client_info": {
+          "package_name": "com.example.tazakhabar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148971313093-lom4cq4n2q219t1gp5p38f9tdn0i8ecq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHFe3pS2jCDUfoQpOe8mDGcE52-EEaqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148971313093-lom4cq4n2q219t1gp5p38f9tdn0i8ecq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

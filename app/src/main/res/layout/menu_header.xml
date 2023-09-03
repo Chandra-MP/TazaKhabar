@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="16dp"
+    android:paddingEnd="16dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:background="@color/cardview_light_background">
+
+    <ImageView
+        android:id="@+id/newsHeaderImage"
+        android:layout_width="120dp"
+        android:layout_height="115dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/taza_khabar" />
+
+    <TextView
+        android:id="@+id/myHeaderTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_below="@id/newsHeaderImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/gobold_regular"
+        android:text="Taza Khabar"
+        android:textColor="@color/black"
+        android:textSize="28sp"
+        android:visibility="invisible"/>
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/myHeaderTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:hint="Username" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/username"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:hint="Email" />
+
+    <TextView
+        android:id="@+id/gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/email"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:hint="Gender" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_below="@id/gender"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Logout"
+        app:iconPadding="2dp" />
+
+</RelativeLayout>

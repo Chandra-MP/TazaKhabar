@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CategoryName">
+        <item>Headlines</item>
+        <item>Business</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+
+    <string-array name="categoryTag">
+        <item>general</item>
+        <item>business</item>
+        <item>sports</item>
+        <item>technology</item>
+    </string-array>
+    <string-array name="countryNames">
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>China</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Hong Kong</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Philippines</item>
+        <item>Portugal</item>
+        <item>Romania</item>
+        <item>Singapore</item>
+        <item>Spain</item>
+        <item>Switzerland</item>
+        <item>Taiwan</item>
+        <item>Ukraine</item>
+        <item>United Kingdom</item>
+        <item>United States</item>
+    </string-array>
+
+</resources>

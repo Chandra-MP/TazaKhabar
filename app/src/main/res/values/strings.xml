@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taza Khabar</string>
+    <string name="search">Search</string>
+    <string name="header_caption">Stay connected to what\'s happening in the world.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
